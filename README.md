@@ -1,1 +1,3 @@
-# Dashboard React - Redux App
+# Dashboard - educational project, React App 
+
+
